@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm Cristian Gómez
 
-<!--
-**GomSal/GomSal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering & Data Science student  
+📍 From Colombia — currently exploring the world through code, data and curiosity  
+💬 Spanish & English
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm into
+
+- 🤖 Automation & control systems  
+- 📊 Data analysis and visualization  
+- ⚙️ Mechanical design  
+- 🧠 AI & Machine Learning for engineering  
+- ✍️ Also love science communication and turning complex stuff into simple stories
+
+---
+
+## 🧰 Things I use a lot
+
+- Python, Pandas, Numpy, Matplotlib  
+- SQL & Excel (still a powerful combo!)  
+- Git & GitHub  
+- MATLAB  
+- Arduino + hardware sensors  
+- Jupyter, VSCode & sometimes a bunch of sticky notes
+
+---
+
+## 🌎 Where to find me
+
+- 📸 [Instagram](https://instagram.com/tu_usuario)  
+- 💼 [LinkedIn](https://linkedin.com/in/tu_usuario)  
+- 💬 [Twitter / X](https://twitter.com/tu_usuario)  
+- 📬 Mail: tuemail@correo.com  
+
+---
+
+*“Keep learning, stay curious, and build cool stuff.”*
+
