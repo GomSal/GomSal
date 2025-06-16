@@ -29,10 +29,9 @@
 
 ## 🌎 Where to find me
 
-- 📸 [Instagram](https://instagram.com/tu_usuario)  
-- 💼 [LinkedIn](https://linkedin.com/in/tu_usuario)  
-- 💬 [Twitter / X](https://twitter.com/tu_usuario)  
-- 📬 Mail: tuemail@correo.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristian-gomsal)  
+- 📸 [Instagram](https://www.instagram.com/cristian_gomsal/)
+- 📬 Mail: cristiangomsal@gmail.com 
 
 ---
 
