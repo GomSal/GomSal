@@ -31,7 +31,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cristian-gomsal)  
 - 📸 [Instagram](https://www.instagram.com/cristian_gomsal/)
-- 📬 Mail: cristiangomsal@gmail.com 
+- 📬 cristiangomsal@gmail.com 
 
 ---
 
